@@ -3,10 +3,10 @@
     "AddOnPackagesRequiredForUmbracoCloud": [],
     "AlternatePackageNames": [],
     "AuthorDetails": {
-        "Name": "IntelligenceBank",
+        "Name": "IntelligenceBank Assets",
         "Description": "Unleash the power of your content with IntelligenceBank's award-winning Digital Asset Management, BrandHub and Marketing Operations software",
-        "Url": "https://umbraco.com/integrations-and-tech-partners/intelligencebank-dam-intelligencebank-dam-experts/",
-        "ImageUrl": "https://umbraco.com/media/rxzng3s4/publisherlogo_screen-shot-2023-01-11-at-55735-pm.png",
+        "Url": "https://intelligencebank.com",
+        "ImageUrl": "https://cdn.intelligencebank.com/au/share/jD3wDg/dAqyGR/eRPw8N/preset=74r89L/IntelligenceBank-logo-stacked-rgb_square",
         "Contributors": [{
             "Name": "Brimit",
             "Url": "https://www.brimit.com/"
@@ -14,7 +14,7 @@
         "SyncContributorsFromRepository": false
     },
     "Category": "PIM & DAM",
-    "Description": "The IntelligenceBank Connector for Umbraco CMS makes it easy for users to access, browse and insert their approved IntelligenceBank assets as CDN links directly from within their Umbraco CMS environment, either via dedicated Media Picker fields or the rich text editor.",
+    "Description": "The IntelligenceBank Assets Connector for Umbraco CMS makes it easy for users to access, browse and insert their approved IntelligenceBank assets as CDN links directly from within their Umbraco CMS environment, either via dedicated Media Picker fields or the rich text editor.",
     "DocumentationUrl": "https://help.intelligencebank.com/hc/en-us/sections/14398637115545-IntelligenceBank-Connector-for-Umbraco-CMS",
     "LicenseTypes": ["Purchase", "Subscription"],
     "IsSubPackageOf": "",
@@ -38,22 +38,14 @@
         }
     ],
     "Tags": ["DAM", "compliance", "assets", "CDN", "responsive", "approval", "files", "marketing", "umbraco", "plugin", "package", "umbraco-marketplace"],
-    "Title": "IntelligenceBank DAM Connector",
+    "Title": "IntelligenceBank Assets Connector",
     "VersionSpecificPackageIds": [{
             "UmbracoMajorVersion": 13,
-            "PackageId": "IntelligenceBank.Umbraco.Connector --version 12.0.597.4930"
+            "PackageId": "IntelligenceBank.Umbraco.Connector --version 12.0.1375.6520"
         },
         {
             "UmbracoMajorVersion": 12,
-            "PackageId": "IntelligenceBank.Umbraco.Connector --version 12.0.597.4930"
-        },
-        {
-            "UmbracoMajorVersion": 11,
-            "PackageId": "IntelligenceBank.Umbraco.Connector --version 11.0.555.4790"
-        },
-        {
-            "UmbracoMajorVersion": 10,
-            "PackageId": "IntelligenceBank.Umbraco.Connector --version 10.0.555.4870"
+            "PackageId": "IntelligenceBank.Umbraco.Connector --version 12.0.1375.6520"
         }
     ]
 }
