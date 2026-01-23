@@ -8,8 +8,8 @@
         "Url": "https://intelligencebank.com",
         "ImageUrl": "https://cdn.intelligencebank.com/au/share/jD3wDg/dAqyGR/eRPw8N/preset=74r89L/IntelligenceBank-logo-stacked-rgb_square",
         "Contributors": [{
-            "Name": "Brimit",
-            "Url": "https://www.brimit.com/"
+            "Name": "IntelligenceBank",
+            "Url": "https://www.intelligencebank.com/"
         }],
         "SyncContributorsFromRepository": false
     },
@@ -40,6 +40,10 @@
     "Tags": ["DAM", "compliance", "assets", "CDN", "responsive", "approval", "files", "marketing", "umbraco", "plugin", "package", "umbraco-marketplace"],
     "Title": "IntelligenceBank Assets Connector",
     "VersionSpecificPackageIds": [{
+            "UmbracoMajorVersion": 17,
+            "PackageId": "IntelligenceBank.Umbraco.Connector --version 17.0.1483.852"
+        },
+        {
             "UmbracoMajorVersion": 13,
             "PackageId": "IntelligenceBank.Umbraco.Connector --version 12.0.1375.6520"
         },
