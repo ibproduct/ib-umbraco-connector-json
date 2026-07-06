@@ -40,16 +40,7 @@
     "Tags": ["DAM", "compliance", "assets", "CDN", "responsive", "approval", "files", "marketing", "umbraco", "plugin", "package", "umbraco-marketplace"],
     "Title": "IntelligenceBank Assets Connector",
     "VersionSpecificPackageIds": [{
-            "UmbracoMajorVersion": 17,
-            "PackageId": "IntelligenceBank.Umbraco.Connector --version 17.0.1483.852"
-        },
-        {
-            "UmbracoMajorVersion": 13,
-            "PackageId": "IntelligenceBank.Umbraco.Connector --version 12.0.1375.6520"
-        },
-        {
-            "UmbracoMajorVersion": 12,
-            "PackageId": "IntelligenceBank.Umbraco.Connector --version 12.0.1375.6520"
-        }
-    ]
+        "UmbracoMajorVersion": 17,
+        "PackageId": "IntelligenceBank.Umbraco.Connector --version 17.0.1483.852"
+    }]
 }
