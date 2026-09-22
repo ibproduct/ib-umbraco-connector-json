@@ -30,11 +30,11 @@
         },
         {
             "ImageUrl": "https://help.intelligencebank.com/hc/article_attachments/14398985014553.png",
-            "Caption": "Access IntelligenceBank assets from the rich-text editor"
+            "Caption": "Access IntelligenceBank Assets from the rich-text editor"
         },
         {
             "ImageUrl": "https://help.intelligencebank.com/hc/article_attachments/14398874296857.png",
-            "Caption": "Browse your IntelligenceBank assets and select the CDN link to insert into your content"
+            "Caption": "Browse your IntelligenceBank Assets and select the CDN link to insert into your content"
         }
     ],
     "Tags": ["DAM", "compliance", "assets", "CDN", "responsive", "approval", "files", "marketing", "umbraco", "plugin", "package", "umbraco-marketplace"],
